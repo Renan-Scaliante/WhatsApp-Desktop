@@ -7,7 +7,7 @@ Original version of WhatsApp Desktop was written by @bcalik there: https://githu
 
 ## Features
 
-* Cross platform (OSX, Windows x64, Linux x64 and ARM v7l)
+* Cross platform (OSX, Windows x64, Linux x64 and Linux 32bits)
 * Native notifications
 * System tray icon
 * Open links in browser
