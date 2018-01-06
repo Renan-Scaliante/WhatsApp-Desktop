@@ -9,4 +9,4 @@ Unofficial WhatsApp Client For Linux, Mac OS, Windows &amp; Linux systems.
 #### Linux 64Bit (APPImage): https://drive.google.com/open?id=1D7bZOaBToL5_SBoViZJZziolTPWpPJcP
 
 #### Windows (only tested on 64BIt): https://drive.google.com/open?id=1eJaBExbLAKzvosZ0EdYcux9AqfiFC1Ow
-#### MacOS (10.11 Tested): https://drive.google.com/open?id=1D7bZOaBToL5_SBoViZJZziolTPWpPJcP
+#### MacOS (10.11 Tested): https://drive.google.com/open?id=1G5vnOLOJ7g5Ne9z8oST632YNn9VimPGG
