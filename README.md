@@ -1,5 +1,5 @@
 # WhatsApp-Desktop
-Unofficial WhatsApp Client For Linux, Mac OS &amp; Linux systems.
+Unofficial WhatsApp Client For Linux, Mac OS, Windows &amp; Linux systems.
 ## For build instructions see Readme.txt
 ### Downloads:
 #### Linux 32Bit: https://drive.google.com/open?id=16s9EbBCvnvGWsJvPLJKf62eJp0cg9C_k
