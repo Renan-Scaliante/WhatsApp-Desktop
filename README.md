@@ -2,11 +2,12 @@
 Unofficial WhatsApp Client For Linux, Mac OS, Windows &amp; Linux systems.
 ## For build instructions see Readme.txt
 ### Downloads:
-#### Linux 32Bit: https://drive.google.com/open?id=1rTWlIa1ecyMmEExW9QQydvm4-sIoI0Eb
+#### Ubuntu 64Bit (deb): https://drive.google.com/open?id=1yvfyaTZmUNYJ82vWEIoppV6iMHRboNjr
 
-#### Linux 64Bit: https://drive.google.com/open?id=1GyYktQ4yG1tEPTZC31r8r116i-m9cMEG
+#### Linux 32Bit (Compressed Files. Just Run): https://drive.google.com/open?id=1rTWlIa1ecyMmEExW9QQydvm4-sIoI0Eb
 
-#### Linux 64Bit (APPImage): https://drive.google.com/open?id=1D7bZOaBToL5_SBoViZJZziolTPWpPJcP
+#### Linux 64Bit (Compressed Files. Just Run): https://drive.google.com/open?id=1GyYktQ4yG1tEPTZC31r8r116i-m9cMEG
 
 #### Windows (only tested on 64BIt): https://drive.google.com/open?id=1eJaBExbLAKzvosZ0EdYcux9AqfiFC1Ow
+
 #### MacOS (10.11 Tested): https://drive.google.com/open?id=1G5vnOLOJ7g5Ne9z8oST632YNn9VimPGG
