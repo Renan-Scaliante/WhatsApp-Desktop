@@ -7,5 +7,5 @@ Exec=/opt/whatsapp-desktop/WhatsApp
 StartupNotify=false
 Terminal=false
 Categories=Network;InstantMessaging;
-Icon=whatsapp
+Icon=/opt/whatsapp-desktop/whatsapp-desktop.png
 StartupWMClass=whatsapp-desktop
