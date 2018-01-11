@@ -197,7 +197,7 @@
         );
     } else if (process.platform == 'linux' || process.platform == 'win64' || process.platform == 'win32') {
         template.unshift({
-            label: '&File',
+            label: '&Whatsapp',
             submenu: [
                 {
                     label: _('About'),
