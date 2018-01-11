@@ -1,11 +1,11 @@
 Source: whatsapp-desktop
 Section: net
 Priority: optional
-Maintainer: Enrico204 <enrico204@gmail.com>
+Maintainer: Renan Scaliante <rmscaliante@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
-Homepage: https://github.com/Enrico204/Whatsapp-Desktop
-Vcs-Git: https://github.com/Enrico204/Whatsapp-Desktop.git
+Homepage: https://github.com/Renan-Scaliante/WhatsApp-Desktop
+Vcs-Git: https://github.com/Renan-Scaliante/Whatsapp-Desktop.git
 
 Package: whatsapp-desktop
 Architecture: amd64 armhf
