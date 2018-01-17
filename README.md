@@ -16,4 +16,4 @@ Unofficial WhatsApp Client For Linux, Mac OS, Windows &amp; Linux systems.
 
 #### Windows 64Bit (Compressed Files. Extract & Run): https://drive.google.com/open?id=1vY6yuwGfm1SUSaO0oK8CFof6siyiEqB5
 
-#### MacOS DMG (10.11 Tested): https://drive.google.com/open?id=1G5vnOLOJ7g5Ne9z8oST632YNn9VimPGG
+#### MacOS DMG (10.9+ Tested): https://drive.google.com/open?id=1G5vnOLOJ7g5Ne9z8oST632YNn9VimPGG
