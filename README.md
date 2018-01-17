@@ -1,5 +1,6 @@
 # WhatsApp-Desktop
 Unofficial WhatsApp Client For Linux, Mac OS, Windows &amp; Linux systems.
+![Whatsapp Screenshot] (https://github.com/Renan-Scaliante/WhatsApp-Desktop/blob/master/screenshot.png)
 ## For build instructions see Readme.txt
 
 ###NOTE:Compressed Linux Files Requires libgconf.so. if the application does not open, install gconf-package and try again.
