@@ -1,5 +1,5 @@
 # WhatsApp-Desktop
-Unofficial WhatsApp Client For Linux, Mac OS, Windows &amp; Linux systems.
+Unofficial WhatsApp Client For Linux, Mac OS &amp; Windows Built Under Electron API.
 
 ![Whatsapp Screenshot](https://github.com/Renan-Scaliante/WhatsApp-Desktop/blob/master/screenshot.png)
 
