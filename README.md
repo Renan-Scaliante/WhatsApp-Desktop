@@ -1,3 +1,7 @@
+# Attention!!! 
+# The whatsapp application is no longer compatible with the chromium browser, which is the engine of electron applications. So unfortunately it crashed.
+# If I find any solution, I'll keep the project going. See you later.
+
 # WhatsApp-Desktop
 Unofficial WhatsApp Client For Linux, Mac OS &amp; Windows Built Under Electron API.
 
